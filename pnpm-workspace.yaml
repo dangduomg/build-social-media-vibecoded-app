@@ -3,3 +3,13 @@ pmOnFail: ignore
 minimumReleaseAgeExclude:
   - '@next/*'
   - next
+
+overrides:
+  baseline-browser-mapping: ^2.11.0
+  brace-expansion: ^5.0.12
+  browserslist: ^4.28.7
+  ip-address: ^10.7.4
+  minimatch: ^11.0.1
+  nanoid: ^3.3.18
+  source-map-js: ^1.2.2
+  zod: ^4.6.6
